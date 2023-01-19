@@ -154,4 +154,4 @@ resource "aws_security_group" "terraform-web-sg" {
   }
 }
 
-resource "null_resource" "upupdate" {}
+resource "null_resource" "init" {}
